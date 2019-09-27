@@ -6,3 +6,4 @@ this is a crx branch。。。
 this is a test
 this is a issu test
 this is a stash test
+你好啊，现在是测试stash
